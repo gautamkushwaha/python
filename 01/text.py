@@ -1,1 +1,1 @@
-print("subscribe")
+print("2nd day")
